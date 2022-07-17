@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Mateus Balotin</title>
+    <link>https://mateusbalotin.github.io/Mateus_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Mateus Balotin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://mateusbalotin.github.io/Mateus_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Craigslist Vehicles Prediction</title>
+      <link>https://mateusbalotin.github.io/Mateus_Portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 17 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://mateusbalotin.github.io/Mateus_Portfolio/post/chapter-2/</guid>
+      <description>Created a tool that predict the price of a vehicle from Craigslist based on some features. Used a dataset from kaggle with more than 400k entries. After data exploration and data analysis, cleaned the data and did some Feature Engineering. Used RandomForest, XGBoost and Linear Regression to reach the best model. References: https://www.youtube.com/watch?v=Z9dGmL2G-4k&amp;amp;list=PL2zq7klxX5ATPC8RuqCuTDdki3b4NqKQv&amp;amp;index=2 References: https://www.kaggle.com/code/msagmj/data-cleaning-eda-used-cars-prediction-86 Dataset: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code?datasetId=62920&amp;amp;sortBy=voteCount Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Reinforcement Learning: Cartpole</title>
+      <link>https://mateusbalotin.github.io/Mateus_Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 09 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://mateusbalotin.github.io/Mateus_Portfolio/post/chapter-1/</guid>
+      <description>A project to understand the basics of DQN - Deep Q-Networks. Applied concepts of Q-Learning and Neural Networs. Based on: https://github.com/ageron/handson-ml2/blob/master/18_reinforcement_learning.ipynb Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mateusbalotin.github.io/Mateus_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mateusbalotin.github.io/Mateus_Portfolio/about/</guid>
+      <description>Data Science and Machine Learning are my passion. Since I was a kid I was fascinated by the idea of computers and when I learned about machines learning by themselves and Data Science I got even more enchanced. I&amp;rsquo;ve been studying data science since 2020 and I&amp;rsquo;m currently finishing my bachelor&amp;rsquo;s degree in Mathematics on UFPR.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mateusbalotin.github.io/Mateus_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mateusbalotin.github.io/Mateus_Portfolio/contact/</guid>
+      <description>You can find me on these social media platforms for a chat!
+Platform URL Linkedin: https://www.linkedin.com/in/mateus-balotin-28869b1b0/ Github: https://github.com/MateusBalotin </description>
+    </item>
+    
+  </channel>
+</rss>
