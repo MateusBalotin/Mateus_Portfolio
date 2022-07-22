@@ -13,7 +13,7 @@
       <pubDate>Sun, 17 Jul 2022 11:00:59 -0400</pubDate>
       
       <guid>https://mateusbalotin.github.io/Mateus_Portfolio/post/chapter-2/</guid>
-      <description>Created a tool that predict the price of a vehicle from Craigslist based on some features. Used a dataset from kaggle with more than 400k entries. After data exploration and data analysis, cleaned the data and did some Feature Engineering. Used RandomForest, XGBoost and Linear Regression to reach the best model. References: https://www.youtube.com/watch?v=Z9dGmL2G-4k&amp;amp;list=PL2zq7klxX5ATPC8RuqCuTDdki3b4NqKQv&amp;amp;index=2 References: https://www.kaggle.com/code/msagmj/data-cleaning-eda-used-cars-prediction-86 Dataset: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/code?datasetId=62920&amp;amp;sortBy=voteCount Link to Github Repository</description>
+      <description>Created a tool that predict the price of a vehicle from Craigslist based on some features. Used a dataset from kaggle with more than 400k entries. After data exploration and data analysis, cleaned the data and did some Feature Engineering. Used RandomForest, XGBoost and Linear Regression to reach the best model. Link to Github Repository</description>
     </item>
     
     <item>
